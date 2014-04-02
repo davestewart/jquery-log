@@ -1,4 +1,4 @@
 jquery-log
 ==========
 
-Simple but useful plugin to log collection's properties to the console
+Simple but useful plugin to log arbitrary collection properties to the console
